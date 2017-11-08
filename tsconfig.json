@@ -1,0 +1,9 @@
+{
+    "compilersOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "rootDir": "doc/js/scripts",
+        "sourceMap": true
+    },
+    "compileOnSave": true
+}
